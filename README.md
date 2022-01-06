@@ -1,4 +1,4 @@
-# ton-explorer-api
+# TON explorer api
 The simple python class for use official TON explorer API
 
 **Distributed by GPL-3.0 License**
@@ -40,4 +40,4 @@ Then you created instance of a class with its own settings
 ## From the author
 I wrote this in 2 days and so I'm not sure there are no bugs! If you want to offer something, then create a request, I will try to respond to it in time
 
-Good luck!
+**Good luck!**
