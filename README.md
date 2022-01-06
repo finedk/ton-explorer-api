@@ -20,7 +20,9 @@ The fast recording process my script with main class
 ![example](https://github.com/alekszavg/ton-explorer-api/blob/main/for_readme/bandicam-2022-01-06-14-42-05-357.gif)
 
 ## Installation and use
-First you need `pip install -r requirements.txt`
+First you need `git clone https://github.com/alekszavg/ton-explorer-api.git`
+
+Than you need `pip install -r requirements.txt`
 
 You can use `import` to got this class 
 
