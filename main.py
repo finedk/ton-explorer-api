@@ -123,13 +123,12 @@ class TonExplorer:
 
         Args:
             address (str, required): Wallet address of TON
-            range_addresses (int, required): Range of wallets
             balance (bool, optional): 
-            time_out (int, optional): TON node timeout for requests (30 req/min or 2 sec)
+            time_out (int, optional): TON node timeout for requests (30 req/min or 2-3 sec)
             trans_type (bool, optional): IN or OUT transation
             trans_message (bool, optional): Message from transaction
-            last_action (bool, optional): 
-            wallet_type (bool, optional): unitialized, active or frozen
+            last_trans (bool, optional): 
+            wallet_state (bool, optional): unitialized, active or frozen
             coin_price (bool, optional): Price TON at now
             ton_node_time (bool, optional): TON node time
             blockchain_id (str, required): Blockchain ID - mainnet or test
